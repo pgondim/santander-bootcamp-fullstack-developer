@@ -1,0 +1,3 @@
+[submodule "mentoria-typescript"]
+	path = mentoria-typescript
+	url = https://github.com/lira1705/mentoria-typescript.git
